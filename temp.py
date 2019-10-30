@@ -3,6 +3,8 @@
 Spyder Editor
 
 This is a temporary script file.
+
+You can use this as a temporary file to work on any ML project
 """
 
 import numpy as np
